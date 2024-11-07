@@ -7,6 +7,8 @@ This is a simple tutorial for creating tweets (write in Chinese).
 ### 第一步：网页登陆
 登陆[秀米](https://xiumi.us/#/)
 
+[xiumi](/xiumi.png)
+
 ### 第二步：创建推文
 选择创建一个推文，填写推文封面, 图文标题和摘要
 
