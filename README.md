@@ -7,12 +7,20 @@ This is a simple tutorial for creating tweets (write in Chinese).
 ### 第1步：网页登陆
 登陆[秀米](https://xiumi.us/#/)，选择创建一个推文，填写推文封面, 图文标题和摘要
 
-<img src="/xiumi.png" width="30%" >
+
 
 **说明：**
 - 标题格式要求：选择文章所属研究领域，如：Filter，eBPF，Index，然后接上中文的“｜”，再接上文章的中文标题
 - 封面可以选择能代表文章核心思想的图片，如果总结不出来暂时用文章标题和作者及其单位代替
 - 摘要介绍文章的标题，发表在的会议/期刊名称及其年份，还有作者及其单位
+
+<div align="center">
+    <img src="/xiumi.png" alt="图片1" width="30%" style="max-width: 300px;">
+    <img src="/template.png" alt="图片2" width="30%" style="max-width: 300px;">
+    <img src="/cover.png" alt="图片3" width="30%" style="max-width: 300px;">
+</div>
+                        
+原文链接：https://blog.csdn.net/lythinking/article/details/135397369
 
 ### 第2步：内容填充
 填写推文的内容，务必保证能让读者读懂，内容不要讲的高深，推文长度也不宜过长
