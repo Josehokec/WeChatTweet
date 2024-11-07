@@ -10,14 +10,14 @@ This is a simple tutorial for creating tweets (write in Chinese).
 
 
 **说明：**
-- 标题格式要求：选择文章所属研究领域，如：Filter，eBPF，Index，然后接上中文的“｜”，再接上文章的中文标题
+- 标题格式要求：选择文章所属研究领域，如：**Filter**，**eBPF**，**Index**，然后接上中文的`｜`，再接上文章的中文标题
 - 封面可以选择能代表文章核心思想的图片，如果总结不出来暂时用文章标题和作者及其单位代替
 - 摘要介绍文章的标题，发表在的会议/期刊名称及其年份，还有作者及其单位
 
 <div align="center">
-    <img src="/xiumi.png" alt="图片1" width="36%" style="max-width: 300px;">
+    <img src="/xiumi.png" alt="图片1" width="38%" style="max-width: 300px;">
     <img src="/template.png" alt="图片2" width="23%" style="max-width: 300px;">
-    <img src="/cover.png" alt="图片3" width="34%" style="max-width: 300px;">
+    <img src="/cover.png" alt="图片3" width="33%" style="max-width: 300px;">
 </div>
                         
 
