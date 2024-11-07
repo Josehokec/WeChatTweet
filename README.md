@@ -33,7 +33,7 @@ This is a simple tutorial for creating tweets (write in Chinese).
 **例子：**
 在`标题`选择了提供的标题样式，然后在`布局`中选择了上下滑动模块，然后编辑里面的内容得到下图的显示效果
 
-<img src="/design.png" alt="图片4" width="39%" style="max-width: 300px;">
+<img src="/design.png" alt="图片4" width="48%" style="max-width: 300px;">
 
 ## 第4步：预览与发送
 制作完成后，请自己预览一次，检查格式是否有误，建议自己读一下，确保语句通顺(甚至可以利用LLMs润色一下)
