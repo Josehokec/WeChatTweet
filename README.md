@@ -15,9 +15,9 @@ This is a simple tutorial for creating tweets (write in Chinese).
 - 摘要介绍文章的标题，发表在的会议/期刊名称及其年份，还有作者及其单位
 
 <div align="center">
-    <img src="/xiumi.png" alt="图片1" width="38%" style="max-width: 300px;">
-    <img src="/template.png" alt="图片2" width="30%" style="max-width: 300px;">
-    <img src="/cover.png" alt="图片3" width="38%" style="max-width: 300px;">
+    <img src="/xiumi.png" alt="图片1" width="35%" style="max-width: 300px;">
+    <img src="/template.png" alt="图片2" width="25%" style="max-width: 300px;">
+    <img src="/cover.png" alt="图片3" width="35%" style="max-width: 300px;">
 </div>
                         
 原文链接：https://blog.csdn.net/lythinking/article/details/135397369
